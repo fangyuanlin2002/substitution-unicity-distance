@@ -1,0 +1,77 @@
+{
+  "description": "Immutable source manifest for the bundled raw Gutenberg snapshots. Live download URLs may later change.",
+  "books": [
+    {
+      "name": "alice",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "gutenberg_id": 11,
+      "source_url": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+      "raw_file": "data/raw/gutenberg_11_alice.txt",
+      "raw_sha256": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+      "clean_file": "data/census_clean/alice.txt",
+      "clean_sha256": "b63b870826f686196b9e4b62892ca538b9f6bb8e2179a3e749e3c45271e5a125",
+      "clean_letters": 108082
+    },
+    {
+      "name": "pride_and_prejudice",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "gutenberg_id": 1342,
+      "source_url": "https://www.gutenberg.org/ebooks/1342.txt.utf-8",
+      "raw_file": "data/raw/gutenberg_1342_pride_and_prejudice.txt",
+      "raw_sha256": "3f6bb9d6f78e0293b56acd4714dd68cb7d6d1d293402031ce9d5a216bcaf9d75",
+      "clean_file": "data/census_clean/pride_and_prejudice.txt",
+      "clean_sha256": "0f161f1497bdc51100cf5a3a3ab0b7951eac6257b820f53252dbf9866510665f",
+      "clean_letters": 563924
+    },
+    {
+      "name": "frankenstein",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "gutenberg_id": 84,
+      "source_url": "https://www.gutenberg.org/ebooks/84.txt.utf-8",
+      "raw_file": "data/raw/gutenberg_84_frankenstein.txt",
+      "raw_sha256": "7810cd483cffcf2cc8a1d8f0d5807931e69d4f48cd14149b8c76f88af82fead3",
+      "clean_file": "data/census_clean/frankenstein.txt",
+      "clean_sha256": "5274034b8122d5fc9409bab2c884365f7d9e2e7198d6c0c0e7aa542d7b3b7b8d",
+      "clean_letters": 332392
+    },
+    {
+      "name": "moby_dick",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "gutenberg_id": 2701,
+      "source_url": "https://www.gutenberg.org/ebooks/2701.txt.utf-8",
+      "raw_file": "data/raw/gutenberg_2701_moby_dick.txt",
+      "raw_sha256": "907420db6c4b68c70e2988cd2ad9c8cf79138667a01b63376d18dd17fef1a18b",
+      "clean_file": "data/census_clean/moby_dick.txt",
+      "clean_sha256": "f8dceb1cf6d4aef435c8fdb4fe29ad4601ec1a31fb486613dd0e5ff61b404f94",
+      "clean_letters": 955169
+    },
+    {
+      "name": "sherlock_holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "gutenberg_id": 1661,
+      "source_url": "https://www.gutenberg.org/ebooks/1661.txt.utf-8",
+      "raw_file": "data/raw/gutenberg_1661_sherlock_holmes.txt",
+      "raw_sha256": "922e2a12ccb43a4c9544c260b2166c6ad2097aeb5957faeee113f173bb857cd0",
+      "clean_file": "data/census_clean/sherlock_holmes.txt",
+      "clean_sha256": "303512f48f5545ba95f48e7ed68de20a3d28e22efe6eb2ac38c7a511e1989304",
+      "clean_letters": 431462
+    },
+    {
+      "name": "huckleberry_finn",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "gutenberg_id": 76,
+      "source_url": "https://www.gutenberg.org/ebooks/76.txt.utf-8",
+      "raw_file": "data/raw/gutenberg_76_huckleberry_finn.txt",
+      "raw_sha256": "d617a37aa7ae1e1a93dcde2634db2bccb86824e31e29a55230bdbf77d6872d59",
+      "clean_file": "data/census_clean/huckleberry_finn.txt",
+      "clean_sha256": "1826a639a66cd81edc1c036e2587cf95f399db27a4e2ef6936e7259005f19f6a",
+      "clean_letters": 427815
+    }
+  ]
+}
