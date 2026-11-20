@@ -1,0 +1,71 @@
+{
+  "explicit_key_compatibility_pairs": 7380,
+  "uniform_occupancy_cases": 16,
+  "status": "passed",
+  "description": "Exact rational formula = exhaustive iid ensemble = production C++ class accounting; packing checked at N=24",
+  "cases": [
+    {
+      "N": 1,
+      "M": 1,
+      "numerator": 1,
+      "denominator": 1,
+      "weighted_good": 6
+    },
+    {
+      "N": 1,
+      "M": 2,
+      "numerator": 7,
+      "denominator": 18,
+      "weighted_good": 28
+    },
+    {
+      "N": 1,
+      "M": 3,
+      "numerator": 1,
+      "denominator": 6,
+      "weighted_good": 108
+    },
+    {
+      "N": 2,
+      "M": 1,
+      "numerator": 1,
+      "denominator": 1,
+      "weighted_good": 36
+    },
+    {
+      "N": 2,
+      "M": 2,
+      "numerator": 203,
+      "denominator": 324,
+      "weighted_good": 1624
+    },
+    {
+      "N": 2,
+      "M": 3,
+      "numerator": 5,
+      "denominator": 12,
+      "weighted_good": 58320
+    },
+    {
+      "N": 3,
+      "M": 1,
+      "numerator": 1,
+      "denominator": 1,
+      "weighted_good": 216
+    },
+    {
+      "N": 3,
+      "M": 2,
+      "numerator": 4987,
+      "denominator": 5832,
+      "weighted_good": 79792
+    },
+    {
+      "N": 3,
+      "M": 3,
+      "numerator": 51319,
+      "denominator": 69984,
+      "weighted_good": 22169808
+    }
+  ]
+}

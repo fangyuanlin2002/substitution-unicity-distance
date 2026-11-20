@@ -1,0 +1,45 @@
+{
+  "date_utc": "2026-11-19",
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "lengths": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "replicates_per_model": 5,
+  "models": [
+    "Q0",
+    "Q1",
+    "Q2",
+    "Q3"
+  ],
+  "random_engine": "std::mt19937_64",
+  "uniform_transform": "(rng() >> 11) * 2**(-53), inverse CDF upper_bound",
+  "seed_rule": "202611190000 + 100*model_order + replicate_index, replicate_index=0,...,4",
+  "sampling": "Generate max_N M_N independent length-24 strings per model and replicate; for length N use first M_N entries and their prefixes. Different lengths are coupled; replicates are independent.",
+  "MCSE": "sample standard deviation of5 independent recovery fractions divided by sqrt(5)",
+  "zero_outgoing_rows_by_order": [
+    0,
+    0,
+    0,
+    23
+  ],
+  "backoff": "longest shorter suffix with a nonzero outgoing row",
+  "corpus_letters": 2791233,
+  "source_metadata": "data/provenance.json",
+  "compiler": "g++ (Debian 14.2.0-19) 14.2.0",
+  "python": "3.12.14",
+  "max_mcse_probability": 0.00016520598531216926
+}

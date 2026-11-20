@@ -1,0 +1,62 @@
+[
+  {
+    "file": "sources/english_monograms.txt",
+    "url": "https://people.math.sc.edu/Burkardt/datasets/ngrams/english_monograms.txt",
+    "sha256": "4a708dcd6e07389357b69df243f013f8d3708781fea0a806a42c32d965585246",
+    "bytes": 296
+  },
+  {
+    "file": "sources/english_bigrams.txt",
+    "url": "https://people.math.sc.edu/Burkardt/datasets/ngrams/english_bigrams.txt",
+    "sha256": "f6761bd902532075e016ec2ac93f9d9e0df9c36bc9d7d1dd29e547b65034fb42",
+    "bytes": 7064
+  },
+  {
+    "file": "sources/english_trigrams.txt",
+    "url": "https://people.math.sc.edu/Burkardt/datasets/ngrams/english_trigrams.txt",
+    "sha256": "c7b95fae56cab0869b9366050699572e15ff142083de2489435e36d6ca31ddf3",
+    "bytes": 161932
+  },
+  {
+    "file": "sources/english_quadgrams.txt",
+    "url": "https://people.math.sc.edu/Burkardt/datasets/ngrams/english_quadgrams.txt",
+    "sha256": "b461953d6ad3b5e1f0f07c133102b7656a205529cb8697a8ecda8d45311f7a55",
+    "bytes": 3289600
+  },
+  {
+    "file": "sources/alice_11.txt",
+    "url": "https://raw.githubusercontent.com/GITenberg/Alice-s-Adventures-in-Wonderland_11/master/11-0.txt",
+    "sha256": "49a0b2726606e1290ac03a63978fa1dd1bd38a8d805704d98265f393533ea094",
+    "bytes": 173595
+  },
+  {
+    "file": "sources/pride_and_prejudice_1342.txt",
+    "url": "https://raw.githubusercontent.com/GITenberg/Pride-and-Prejudice_1342/master/1342-0.txt",
+    "sha256": "48e0522844402a86a3ea98f0947ba85ea54838db3c59022299298ed968a5a163",
+    "bytes": 724725
+  },
+  {
+    "file": "sources/frankenstein_84.txt",
+    "url": "https://raw.githubusercontent.com/GITenberg/Frankenstein_84/master/84.txt",
+    "sha256": "63905aed2ed77e597845305ff6730cb4d01851d5f321ce1904d4691685f70514",
+    "bytes": 448717
+  },
+  {
+    "file": "sources/moby_dick_2701.txt",
+    "url": "https://raw.githubusercontent.com/GITenberg/Moby-Dick--Or-The-Whale_2701/master/2701-0.txt",
+    "sha256": "baf9b04fcf6e0008f30eaaa6697277751448c1070b20175e0082f28cbb161fd3",
+    "bytes": 1276201
+  },
+  {
+    "file": "sources/sherlock_holmes_1661.txt",
+    "url": "https://raw.githubusercontent.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/master/1661.txt",
+    "sha256": "2a0ce5568625a304f54fbb6bfdeeadf527a1437254b5f0e06b5a9e233d4784a2",
+    "bytes": 594941
+  },
+  {
+    "file": "sources/huckleberry_finn_76.txt",
+    "url": "https://raw.githubusercontent.com/GITenberg/Adventures-of-Huckleberry-Finn_76/master/76-0.txt",
+    "sha256": "cd9931183257a850178225bd5e25e4f2df0cbac544dfe9a49cd0ea5a210c24d9",
+    "bytes": 616320
+  }
+]
